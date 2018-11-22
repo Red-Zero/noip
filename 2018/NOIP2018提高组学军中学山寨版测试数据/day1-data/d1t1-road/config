@@ -1,0 +1,22 @@
+-p 10 -t 1 -m 524288
+test road1.in road1.out
+
+test road2.in road2.out
+
+test road3.in road3.out
+
+test road4.in road4.out
+
+test road5.in road5.out
+
+test road6.in road6.out
+
+test road7.in road7.out
+
+test road8.in road8.out
+
+test road9.in road9.out
+
+test road10.in road10.out
+
+

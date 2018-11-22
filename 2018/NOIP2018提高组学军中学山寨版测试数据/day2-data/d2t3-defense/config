@@ -1,0 +1,51 @@
+-p 4 -t 2 -m 524288
+
+test defense1.in defense1.out
+
+test defense2.in defense2.out
+
+test defense3.in defense3.out
+
+test defense4.in defense4.out
+
+test defense5.in defense5.out
+
+test defense6.in defense6.out
+
+test defense7.in defense7.out
+
+test defense8.in defense8.out
+
+test defense9.in defense9.out
+
+test defense10.in defense10.out
+
+test defense11.in defense11.out
+
+test defense12.in defense12.out
+
+test defense13.in defense13.out
+
+test defense14.in defense14.out
+
+test defense15.in defense15.out
+
+test defense16.in defense16.out
+
+test defense17.in defense17.out
+
+test defense18.in defense18.out
+
+test defense19.in defense19.out
+
+test defense20.in defense20.out
+
+test defense21.in defense21.out
+
+test defense22.in defense22.out
+
+test defense23.in defense23.out
+
+test defense24.in defense24.out
+
+test defense25.in defense25.out

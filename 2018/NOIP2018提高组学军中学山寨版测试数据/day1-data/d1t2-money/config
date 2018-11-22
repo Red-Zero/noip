@@ -1,0 +1,40 @@
+-p 5 -t 1 -m 524288
+test money1.in money1.out
+
+test money2.in money2.out
+
+test money3.in money3.out
+
+test money4.in money4.out
+
+test money5.in money5.out
+
+test money6.in money6.out
+
+test money7.in money7.out
+
+test money8.in money8.out
+
+test money9.in money9.out
+
+test money10.in money10.out
+
+test money11.in money11.out
+
+test money12.in money12.out
+
+test money13.in money13.out
+
+test money14.in money14.out
+
+test money15.in money15.out
+
+test money16.in money16.out
+
+test money17.in money17.out
+
+test money18.in money18.out
+
+test money19.in money19.out
+
+test money20.in money20.out

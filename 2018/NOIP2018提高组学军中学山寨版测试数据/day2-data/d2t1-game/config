@@ -1,0 +1,51 @@
+-p 4 -t 1 -m 524288
+
+test travel1.in travel1.out
+
+test travel2.in travel2.out
+
+test travel3.in travel3.out
+
+test travel4.in travel4.out
+
+test travel5.in travel5.out
+
+test travel6.in travel6.out
+
+test travel7.in travel7.out
+
+test travel8.in travel8.out
+
+test travel9.in travel9.out
+
+test travel10.in travel10.out
+
+test travel11.in travel11.out
+
+test travel12.in travel12.out
+
+test travel13.in travel13.out
+
+test travel14.in travel14.out
+
+test travel15.in travel15.out
+
+test travel16.in travel16.out
+
+test travel17.in travel17.out
+
+test travel18.in travel18.out
+
+test travel19.in travel19.out
+
+test travel20.in travel20.out
+
+test travel21.in travel21.out
+
+test travel22.in travel22.out
+
+test travel23.in travel23.out
+
+test travel24.in travel24.out
+
+test travel25.in travel25.out

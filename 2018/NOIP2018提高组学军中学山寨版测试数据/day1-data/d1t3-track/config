@@ -1,0 +1,21 @@
+-p 5 -t 1 -m 524288
+test track1.in track1.out
+test track2.in track2.out
+test track3.in track3.out
+test track4.in track4.out
+test track5.in track5.out
+test track6.in track6.out
+test track7.in track7.out
+test track8.in track8.out
+test track9.in track9.out
+test track10.in track10.out
+test track11.in track11.out
+test track12.in track12.out
+test track13.in track13.out
+test track14.in track14.out
+test track15.in track15.out
+test track16.in track16.out
+test track17.in track17.out
+test track18.in track18.out
+test track19.in track19.out
+test track20.in track20.out

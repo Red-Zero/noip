@@ -1,0 +1,42 @@
+-p 5 -t 1 -m 524288
+
+test game1.in game1.out
+
+test game2.in game2.out
+
+test game3.in game3.out
+
+test game4.in game4.out
+
+test game5.in game5.out
+
+test game6.in game6.out
+
+test game7.in game7.out
+
+test game8.in game8.out
+
+test game9.in game9.out
+
+test game10.in game10.out
+
+test game11.in game11.out
+
+test game12.in game12.out
+
+test game13.in game13.out
+
+test game14.in game14.out
+
+test game15.in game15.out
+
+test game16.in game16.out
+
+test game17.in game17.out
+
+test game18.in game18.out
+
+test game19.in game19.out
+
+test game20.in game20.out
+
